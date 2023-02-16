@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33402.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenImageByOpenCvSharp", "OpenImageByOpenCvSharp\OpenImageByOpenCvSharp.csproj", "{78459136-226A-4C95-ABF4-3AEF9FB6812F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78459136-226A-4C95-ABF4-3AEF9FB6812F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78459136-226A-4C95-ABF4-3AEF9FB6812F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78459136-226A-4C95-ABF4-3AEF9FB6812F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78459136-226A-4C95-ABF4-3AEF9FB6812F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0114408-4355-4E47-9DE9-6E40E61DC515}
+	EndGlobalSection
+EndGlobal
