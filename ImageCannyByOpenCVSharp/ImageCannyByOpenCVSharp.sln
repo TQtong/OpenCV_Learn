@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCannyByOpenCVSharp", "ImageCannyByOpenCVSharp\ImageCannyByOpenCVSharp.csproj", "{73310F8F-4E5D-4854-A22D-8F0081A67EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73310F8F-4E5D-4854-A22D-8F0081A67EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73310F8F-4E5D-4854-A22D-8F0081A67EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73310F8F-4E5D-4854-A22D-8F0081A67EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73310F8F-4E5D-4854-A22D-8F0081A67EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88ADA13D-C933-41C5-AD8A-26861683115E}
+	EndGlobalSection
+EndGlobal
